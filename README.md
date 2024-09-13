@@ -9,7 +9,8 @@ A simple and responsive number generator tool built with **HTML**, **CSS**, and 
 - 📱 **Responsive Design**: Fully responsive and mobile-friendly.
 
 ## 📸 Screenshot:
-![Captura de tela 2024-09-13 123928](https://github.com/user-attachments/assets/69e735d0-dd37-4ef0-b704-ab9c6f80c960)
+![Captura de tela 2024-09-13 124107](https://github.com/user-attachments/assets/2609b864-d906-4cd0-974b-3cfe34dab7a5)
+
 
 
 ## 🛠 Technologies:
